@@ -382,6 +382,7 @@ a {
 
 a.link {
     color: #4f4f4f;
+    padding-right: 20px
 }
 
 a.link:hover {
