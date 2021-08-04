@@ -244,6 +244,10 @@ hr {
     padding-top: 1rem !important
 }
 
+.pxx-3 {
+    padding-right: 20px;
+}
+
 .px-3 {
     padding-right: 1rem !important
 }
@@ -366,9 +370,12 @@ a {
     background-color: transparent
 }
 
+p-20 {
+    padding-right: 20px !important
+}
+
 a.link {
     color: #4f4f4f;
-    padding-right: 20px;
 }
 
 a.link:hover {
@@ -429,4 +436,3 @@ a.link:hover {
         border-left: 0
     }
 }
-
