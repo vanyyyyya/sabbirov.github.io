@@ -14,13 +14,8 @@
     box-sizing: border-box
 }
 
-article,
-aside,
-figcaption,
-figure,
 footer,
 header,
-hgroup,
 main,
 nav,
 section {
@@ -95,7 +90,7 @@ hr {
 .list-inline {
     padding-left: 0;
     list-style: none;
-    display: :inline-block
+    display: inline-block
 }
 
 .list-inline-item {
