@@ -116,6 +116,12 @@ hr {
 }
 
 @media (min-width:768px) {
+
+    .mb-25 {
+        margin-bottom: 24px;
+        margin-top: 24px;
+    }
+
     .container {
         max-width: 720px
     }
@@ -199,6 +205,7 @@ hr {
     .d-lg-inline-block {
         display: inline-block !important
     }
+
 }
 
 .flex-column {
@@ -458,6 +465,12 @@ a.link:hover {
 }
 
 @media (max-width:767.98px) {
+
+    .mb-25 {
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+
     .contact {
         border-left: 0
     }
