@@ -403,11 +403,16 @@ h2 {
 a {
     text-decoration: none;
     background-color: transparent
+    
+}
+
+
+.link {
+    color: #000
 }
 
 a.link {
     text-decoration: none;
-    color: #000;
 }
 
 a.link:hover {
@@ -427,6 +432,7 @@ a.link:hover {
     -webkit-text-fill-color: transparent;
     -webkit-animation: blu-change 2s infinite
 }
+
 
 @keyframes blu-change {
     0% {
@@ -460,6 +466,7 @@ a.link:hover {
 .image {
     max-width: 120px;
 }
+
 
 .social-list {
     font-size: .75r;

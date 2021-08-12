@@ -396,8 +396,12 @@ a {
     background-color: transparent
 }
 
+.link {
+    color: #000
+}
+
 a.link {
-    color: #fff;
+    text-decoration: none;
 }
 
 a.link:hover {
